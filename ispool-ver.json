@@ -1,6 +1,1 @@
-{
-  "itn": {
-    "owner": "ed25519_pk1qf52cmxncgwfkc4w6ejqla8qsy04yemgjzgzesaj042eguazg74qvuuwkw",
-    "witness": "ed25519_sig1wxp6xc8rfalc83af6txwhjc5t3q5pv3gaw2tvxc9pkwyl0cq2xtcumvqdwm3x8u3qavkwm0sa2sce65vdj99vnpz422fmfgwaxq4yrsylr8rr"
-  }
-}
+{"name": "Investment Stake Pool", "ticker": "000", "description": "Servers are located in state-of-the-art data centers in Switzerland and provide top reliability and security", "homepage": "https://ispool.live/", "extended": "https://data.pooltool.io/md/1b82e3de-5414-4d6a-904f-b9949493b33b"}
